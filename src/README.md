@@ -1,7 +1,6 @@
 # Selenium Automation Framework (Java, TestNG, POM)
 
-This project is a Selenium automation framework built using **Java**, **TestNG**, and the **Page Object Model**.  
-It includes Allure reporting, listeners for screenshots on failure, and a clean project structure for maintainability.
+This project is a Selenium automation framework built using Java, TestNG, and the Page Object Model.  
 
 ## Features
 - Selenium WebDriver with TestNG

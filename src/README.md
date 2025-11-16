@@ -13,12 +13,12 @@ This project is a Selenium automation framework built using Java, TestNG, and th
 ▶️ How to Run the Tests
 Run the entire automation test suite using Maven:
 
-mvn clean test
+**mvn clean test**
 
 📊 Generate Allure Report
 
 After running the tests, generate and open the Allure report:
 
-allure serve
+**allure serve**
 
 This will launch an interactive Allure dashboard locally. 
